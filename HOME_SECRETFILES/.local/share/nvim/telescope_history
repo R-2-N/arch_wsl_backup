@@ -1,0 +1,13 @@
+:set nu
+:q
+q
+Ex
+options
+:q
+termina
+q
+_layout
+find
+../../..
+grep
+live

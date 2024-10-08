@@ -1,0 +1,1060 @@
+[INFO  Wed 02 Oct 2024 10:55:05 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Wed 02 Oct 2024 10:55:05 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=shfmt) {}
+[INFO  Wed 02 Oct 2024 10:55:09 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=shfmt)
+[ERROR Wed 02 Oct 2024 10:55:09 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[ERROR Wed 02 Oct 2024 10:55:35 PM +03] ...m/lazy/mason-lspconfig.nvim/lua/mason-lspconfig/init.lua:33: Failed to set up lspconfig integration. ...ig.nvim/lua/mason-lspconfig/server_config_extensions.lua:4: module 'lspconfig.server_configurations.omnisharp' not found:
+	no field package.preload['lspconfig.server_configurations.omnisharp']
+cache_loader: module lspconfig.server_configurations.omnisharp not found
+cache_loader_lib: module lspconfig.server_configurations.omnisharp not found
+	no file './lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/luajit-2.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file './lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file './lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig.so'
+	no file '/usr/lib/lua/5.1/lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+[INFO  Wed 02 Oct 2024 10:55:35 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=lua-language-server) {}
+[INFO  Wed 02 Oct 2024 10:55:36 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=lua-language-server)
+[INFO  Wed 02 Oct 2024 11:03:51 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[ERROR Wed 02 Oct 2024 11:03:51 PM +03] ...m/lazy/mason-lspconfig.nvim/lua/mason-lspconfig/init.lua:33: Failed to set up lspconfig integration. ...ig.nvim/lua/mason-lspconfig/server_config_extensions.lua:4: module 'lspconfig.server_configurations.omnisharp' not found:
+	no field package.preload['lspconfig.server_configurations.omnisharp']
+cache_loader: module lspconfig.server_configurations.omnisharp not found
+cache_loader_lib: module lspconfig.server_configurations.omnisharp not found
+	no file './lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/luajit-2.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file './lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file './lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig.so'
+	no file '/usr/lib/lua/5.1/lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/lib/lua/5.1/lspconfig.so'
+[ERROR Wed 02 Oct 2024 11:03:54 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Wed 02 Oct 2024 11:08:15 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Wed 02 Oct 2024 11:08:15 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdownlint-cli2) {}
+[INFO  Wed 02 Oct 2024 11:08:15 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdown-toc) {}
+[ERROR Wed 02 Oct 2024 11:08:16 PM +03] ...m/lazy/mason-lspconfig.nvim/lua/mason-lspconfig/init.lua:33: Failed to set up lspconfig integration. ...ig.nvim/lua/mason-lspconfig/server_config_extensions.lua:4: module 'lspconfig.server_configurations.omnisharp' not found:
+	no field package.preload['lspconfig.server_configurations.omnisharp']
+cache_loader: module lspconfig.server_configurations.omnisharp not found
+cache_loader_lib: module lspconfig.server_configurations.omnisharp not found
+	no file './lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/luajit-2.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file './lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file './lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig.so'
+	no file '/usr/lib/lua/5.1/lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/lib/lua/5.1/lspconfig.so'
+[INFO  Wed 02 Oct 2024 11:08:16 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Wed 02 Oct 2024 11:08:16 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=taplo) {}
+[ERROR Wed 02 Oct 2024 11:08:16 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdownlint-cli2) error=spawn: npm failed with exit code 127 and signal 0. 
+[INFO  Wed 02 Oct 2024 11:08:16 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=marksman) {}
+[ERROR Wed 02 Oct 2024 11:08:16 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdown-toc) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Wed 02 Oct 2024 11:08:16 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Wed 02 Oct 2024 11:08:17 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Wed 02 Oct 2024 11:08:19 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=taplo)
+[INFO  Wed 02 Oct 2024 11:08:21 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=marksman)
+[INFO  Wed 02 Oct 2024 11:21:39 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Wed 02 Oct 2024 11:21:39 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdownlint-cli2) {}
+[INFO  Wed 02 Oct 2024 11:21:39 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdown-toc) {}
+[ERROR Wed 02 Oct 2024 11:21:39 PM +03] ...m/lazy/mason-lspconfig.nvim/lua/mason-lspconfig/init.lua:33: Failed to set up lspconfig integration. ...ig.nvim/lua/mason-lspconfig/server_config_extensions.lua:4: module 'lspconfig.server_configurations.omnisharp' not found:
+	no field package.preload['lspconfig.server_configurations.omnisharp']
+cache_loader: module lspconfig.server_configurations.omnisharp not found
+cache_loader_lib: module lspconfig.server_configurations.omnisharp not found
+	no file './lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/luajit-2.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file './lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file './lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig.so'
+	no file '/usr/lib/lua/5.1/lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+[INFO  Wed 02 Oct 2024 11:21:40 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Wed 02 Oct 2024 11:21:40 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdown-toc) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Wed 02 Oct 2024 11:21:40 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdownlint-cli2) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Wed 02 Oct 2024 11:21:40 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Wed 02 Oct 2024 11:21:41 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Wed 02 Oct 2024 11:24:42 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Wed 02 Oct 2024 11:24:42 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdownlint-cli2) {}
+[INFO  Wed 02 Oct 2024 11:24:42 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdown-toc) {}
+[ERROR Wed 02 Oct 2024 11:24:42 PM +03] ...m/lazy/mason-lspconfig.nvim/lua/mason-lspconfig/init.lua:33: Failed to set up lspconfig integration. ...ig.nvim/lua/mason-lspconfig/server_config_extensions.lua:4: module 'lspconfig.server_configurations.omnisharp' not found:
+	no field package.preload['lspconfig.server_configurations.omnisharp']
+cache_loader: module lspconfig.server_configurations.omnisharp not found
+cache_loader_lib: module lspconfig.server_configurations.omnisharp not found
+	no file './lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/luajit-2.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file './lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file './lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig.so'
+	no file '/usr/lib/lua/5.1/lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/lib/lua/5.1/lspconfig.so'
+[INFO  Wed 02 Oct 2024 11:24:42 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Wed 02 Oct 2024 11:24:42 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdownlint-cli2) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Wed 02 Oct 2024 11:24:42 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdown-toc) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Wed 02 Oct 2024 11:24:42 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Wed 02 Oct 2024 11:24:43 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Wed 02 Oct 2024 11:49:42 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Wed 02 Oct 2024 11:49:42 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdownlint-cli2) {}
+[INFO  Wed 02 Oct 2024 11:49:42 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdown-toc) {}
+[ERROR Wed 02 Oct 2024 11:49:42 PM +03] ...m/lazy/mason-lspconfig.nvim/lua/mason-lspconfig/init.lua:33: Failed to set up lspconfig integration. ...ig.nvim/lua/mason-lspconfig/server_config_extensions.lua:4: module 'lspconfig.server_configurations.omnisharp' not found:
+	no field package.preload['lspconfig.server_configurations.omnisharp']
+cache_loader: module lspconfig.server_configurations.omnisharp not found
+cache_loader_lib: module lspconfig.server_configurations.omnisharp not found
+	no file './lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/luajit-2.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file './lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file './lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig.so'
+	no file '/usr/lib/lua/5.1/lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/lib/lua/5.1/lspconfig.so'
+[INFO  Wed 02 Oct 2024 11:49:42 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Wed 02 Oct 2024 11:49:42 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdown-toc) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Wed 02 Oct 2024 11:49:42 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdownlint-cli2) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Wed 02 Oct 2024 11:49:42 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Wed 02 Oct 2024 11:49:43 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Wed 02 Oct 2024 11:56:18 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Wed 02 Oct 2024 11:56:18 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdownlint-cli2) {}
+[INFO  Wed 02 Oct 2024 11:56:18 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdown-toc) {}
+[ERROR Wed 02 Oct 2024 11:56:18 PM +03] ...m/lazy/mason-lspconfig.nvim/lua/mason-lspconfig/init.lua:33: Failed to set up lspconfig integration. ...ig.nvim/lua/mason-lspconfig/server_config_extensions.lua:4: module 'lspconfig.server_configurations.omnisharp' not found:
+	no field package.preload['lspconfig.server_configurations.omnisharp']
+cache_loader: module lspconfig.server_configurations.omnisharp not found
+cache_loader_lib: module lspconfig.server_configurations.omnisharp not found
+	no file './lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/luajit-2.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file './lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file './lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig.so'
+	no file '/usr/lib/lua/5.1/lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/lib/lua/5.1/lspconfig.so'
+[INFO  Wed 02 Oct 2024 11:56:18 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Wed 02 Oct 2024 11:56:18 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdownlint-cli2) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Wed 02 Oct 2024 11:56:18 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdown-toc) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Wed 02 Oct 2024 11:56:18 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Wed 02 Oct 2024 11:56:19 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Wed 02 Oct 2024 11:59:11 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Wed 02 Oct 2024 11:59:11 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdownlint-cli2) {}
+[INFO  Wed 02 Oct 2024 11:59:11 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdown-toc) {}
+[ERROR Wed 02 Oct 2024 11:59:11 PM +03] ...m/lazy/mason-lspconfig.nvim/lua/mason-lspconfig/init.lua:33: Failed to set up lspconfig integration. ...ig.nvim/lua/mason-lspconfig/server_config_extensions.lua:4: module 'lspconfig.server_configurations.omnisharp' not found:
+	no field package.preload['lspconfig.server_configurations.omnisharp']
+cache_loader: module lspconfig.server_configurations.omnisharp not found
+cache_loader_lib: module lspconfig.server_configurations.omnisharp not found
+	no file './lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/luajit-2.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file './lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file './lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig.so'
+	no file '/usr/lib/lua/5.1/lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/lib/lua/5.1/lspconfig.so'
+[INFO  Wed 02 Oct 2024 11:59:11 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Wed 02 Oct 2024 11:59:12 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdown-toc) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Wed 02 Oct 2024 11:59:12 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdownlint-cli2) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Wed 02 Oct 2024 11:59:12 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Wed 02 Oct 2024 11:59:13 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Thu 03 Oct 2024 12:02:56 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Thu 03 Oct 2024 12:02:56 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdownlint-cli2) {}
+[INFO  Thu 03 Oct 2024 12:02:56 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdown-toc) {}
+[ERROR Thu 03 Oct 2024 12:02:56 AM +03] ...m/lazy/mason-lspconfig.nvim/lua/mason-lspconfig/init.lua:33: Failed to set up lspconfig integration. ...ig.nvim/lua/mason-lspconfig/server_config_extensions.lua:4: module 'lspconfig.server_configurations.omnisharp' not found:
+	no field package.preload['lspconfig.server_configurations.omnisharp']
+cache_loader: module lspconfig.server_configurations.omnisharp not found
+cache_loader_lib: module lspconfig.server_configurations.omnisharp not found
+	no file './lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/luajit-2.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file './lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file './lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig.so'
+	no file '/usr/lib/lua/5.1/lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/lib/lua/5.1/lspconfig.so'
+[INFO  Thu 03 Oct 2024 12:02:57 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Thu 03 Oct 2024 12:02:57 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdownlint-cli2) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Thu 03 Oct 2024 12:02:57 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdown-toc) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Thu 03 Oct 2024 12:02:57 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Thu 03 Oct 2024 12:02:58 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Thu 03 Oct 2024 12:03:35 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Thu 03 Oct 2024 12:03:35 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdownlint-cli2) {}
+[INFO  Thu 03 Oct 2024 12:03:35 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdown-toc) {}
+[ERROR Thu 03 Oct 2024 12:03:35 AM +03] ...m/lazy/mason-lspconfig.nvim/lua/mason-lspconfig/init.lua:33: Failed to set up lspconfig integration. ...ig.nvim/lua/mason-lspconfig/server_config_extensions.lua:4: module 'lspconfig.server_configurations.omnisharp' not found:
+	no field package.preload['lspconfig.server_configurations.omnisharp']
+cache_loader: module lspconfig.server_configurations.omnisharp not found
+cache_loader_lib: module lspconfig.server_configurations.omnisharp not found
+	no file './lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/luajit-2.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file './lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file './lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig.so'
+	no file '/usr/lib/lua/5.1/lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/lib/lua/5.1/lspconfig.so'
+[INFO  Thu 03 Oct 2024 12:03:35 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Thu 03 Oct 2024 12:03:35 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdown-toc) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Thu 03 Oct 2024 12:03:35 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdownlint-cli2) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Thu 03 Oct 2024 12:03:35 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Thu 03 Oct 2024 12:03:36 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Thu 03 Oct 2024 12:15:23 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Thu 03 Oct 2024 12:15:23 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdownlint-cli2) {}
+[INFO  Thu 03 Oct 2024 12:15:23 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdown-toc) {}
+[ERROR Thu 03 Oct 2024 12:15:23 AM +03] ...m/lazy/mason-lspconfig.nvim/lua/mason-lspconfig/init.lua:33: Failed to set up lspconfig integration. ...ig.nvim/lua/mason-lspconfig/server_config_extensions.lua:4: module 'lspconfig.server_configurations.omnisharp' not found:
+	no field package.preload['lspconfig.server_configurations.omnisharp']
+cache_loader: module lspconfig.server_configurations.omnisharp not found
+cache_loader_lib: module lspconfig.server_configurations.omnisharp not found
+	no file './lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/luajit-2.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file './lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file './lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig.so'
+	no file '/usr/lib/lua/5.1/lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+[INFO  Thu 03 Oct 2024 12:15:23 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Thu 03 Oct 2024 12:15:23 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdown-toc) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Thu 03 Oct 2024 12:15:23 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdownlint-cli2) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Thu 03 Oct 2024 12:15:23 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Thu 03 Oct 2024 12:15:24 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Thu 03 Oct 2024 06:08:59 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Thu 03 Oct 2024 06:08:59 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdownlint-cli2) {}
+[INFO  Thu 03 Oct 2024 06:08:59 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdown-toc) {}
+[ERROR Thu 03 Oct 2024 06:08:59 PM +03] ...m/lazy/mason-lspconfig.nvim/lua/mason-lspconfig/init.lua:33: Failed to set up lspconfig integration. ...ig.nvim/lua/mason-lspconfig/server_config_extensions.lua:4: module 'lspconfig.server_configurations.omnisharp' not found:
+	no field package.preload['lspconfig.server_configurations.omnisharp']
+cache_loader: module lspconfig.server_configurations.omnisharp not found
+cache_loader_lib: module lspconfig.server_configurations.omnisharp not found
+	no file './lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/luajit-2.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file './lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file './lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig.so'
+	no file '/usr/lib/lua/5.1/lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/lib/lua/5.1/lspconfig.so'
+[INFO  Thu 03 Oct 2024 06:09:00 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Thu 03 Oct 2024 06:09:00 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdownlint-cli2) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Thu 03 Oct 2024 06:09:00 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdown-toc) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Thu 03 Oct 2024 06:09:00 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Thu 03 Oct 2024 06:09:01 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Thu 03 Oct 2024 06:17:06 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Thu 03 Oct 2024 06:17:06 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdownlint-cli2) {}
+[INFO  Thu 03 Oct 2024 06:17:06 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdown-toc) {}
+[ERROR Thu 03 Oct 2024 06:17:06 PM +03] ...m/lazy/mason-lspconfig.nvim/lua/mason-lspconfig/init.lua:33: Failed to set up lspconfig integration. ...ig.nvim/lua/mason-lspconfig/server_config_extensions.lua:4: module 'lspconfig.server_configurations.omnisharp' not found:
+	no field package.preload['lspconfig.server_configurations.omnisharp']
+cache_loader: module lspconfig.server_configurations.omnisharp not found
+cache_loader_lib: module lspconfig.server_configurations.omnisharp not found
+	no file './lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/luajit-2.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file './lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file './lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig.so'
+	no file '/usr/lib/lua/5.1/lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/lib/lua/5.1/lspconfig.so'
+[INFO  Thu 03 Oct 2024 06:17:06 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Thu 03 Oct 2024 06:17:06 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdownlint-cli2) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Thu 03 Oct 2024 06:17:06 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdown-toc) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Thu 03 Oct 2024 06:17:06 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Thu 03 Oct 2024 06:17:07 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Thu 03 Oct 2024 06:46:09 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Thu 03 Oct 2024 06:46:09 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdownlint-cli2) {}
+[INFO  Thu 03 Oct 2024 06:46:09 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdown-toc) {}
+[ERROR Thu 03 Oct 2024 06:46:09 PM +03] ...m/lazy/mason-lspconfig.nvim/lua/mason-lspconfig/init.lua:33: Failed to set up lspconfig integration. ...ig.nvim/lua/mason-lspconfig/server_config_extensions.lua:4: module 'lspconfig.server_configurations.omnisharp' not found:
+	no field package.preload['lspconfig.server_configurations.omnisharp']
+cache_loader: module lspconfig.server_configurations.omnisharp not found
+cache_loader_lib: module lspconfig.server_configurations.omnisharp not found
+	no file './lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/luajit-2.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file './lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file './lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig.so'
+	no file '/usr/lib/lua/5.1/lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+[INFO  Thu 03 Oct 2024 06:46:10 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Thu 03 Oct 2024 06:46:10 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdown-toc) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Thu 03 Oct 2024 06:46:10 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdownlint-cli2) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Thu 03 Oct 2024 06:46:10 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Thu 03 Oct 2024 06:46:11 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Thu 03 Oct 2024 06:47:58 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Thu 03 Oct 2024 06:47:58 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdownlint-cli2) {}
+[INFO  Thu 03 Oct 2024 06:47:58 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdown-toc) {}
+[ERROR Thu 03 Oct 2024 06:47:58 PM +03] ...m/lazy/mason-lspconfig.nvim/lua/mason-lspconfig/init.lua:33: Failed to set up lspconfig integration. ...ig.nvim/lua/mason-lspconfig/server_config_extensions.lua:4: module 'lspconfig.server_configurations.omnisharp' not found:
+	no field package.preload['lspconfig.server_configurations.omnisharp']
+cache_loader: module lspconfig.server_configurations.omnisharp not found
+cache_loader_lib: module lspconfig.server_configurations.omnisharp not found
+	no file './lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/luajit-2.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file './lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file './lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig.so'
+	no file '/usr/lib/lua/5.1/lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/lib/lua/5.1/lspconfig.so'
+[INFO  Thu 03 Oct 2024 06:47:59 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Thu 03 Oct 2024 06:47:59 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdownlint-cli2) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Thu 03 Oct 2024 06:47:59 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdown-toc) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Thu 03 Oct 2024 06:47:59 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Thu 03 Oct 2024 06:48:00 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Thu 03 Oct 2024 07:15:41 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Thu 03 Oct 2024 07:15:41 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdownlint-cli2) {}
+[INFO  Thu 03 Oct 2024 07:15:41 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdown-toc) {}
+[ERROR Thu 03 Oct 2024 07:15:41 PM +03] ...m/lazy/mason-lspconfig.nvim/lua/mason-lspconfig/init.lua:33: Failed to set up lspconfig integration. ...ig.nvim/lua/mason-lspconfig/server_config_extensions.lua:4: module 'lspconfig.server_configurations.omnisharp' not found:
+	no field package.preload['lspconfig.server_configurations.omnisharp']
+cache_loader: module lspconfig.server_configurations.omnisharp not found
+cache_loader_lib: module lspconfig.server_configurations.omnisharp not found
+	no file './lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/luajit-2.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file './lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file './lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig.so'
+	no file '/usr/lib/lua/5.1/lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/lib/lua/5.1/lspconfig.so'
+[INFO  Thu 03 Oct 2024 07:15:41 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Thu 03 Oct 2024 07:15:41 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdown-toc) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Thu 03 Oct 2024 07:15:41 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdownlint-cli2) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Thu 03 Oct 2024 07:15:41 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Thu 03 Oct 2024 07:15:42 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Thu 03 Oct 2024 07:29:19 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Thu 03 Oct 2024 07:29:19 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdownlint-cli2) {}
+[INFO  Thu 03 Oct 2024 07:29:19 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdown-toc) {}
+[ERROR Thu 03 Oct 2024 07:29:19 PM +03] ...m/lazy/mason-lspconfig.nvim/lua/mason-lspconfig/init.lua:33: Failed to set up lspconfig integration. ...ig.nvim/lua/mason-lspconfig/server_config_extensions.lua:4: module 'lspconfig.server_configurations.omnisharp' not found:
+	no field package.preload['lspconfig.server_configurations.omnisharp']
+cache_loader: module lspconfig.server_configurations.omnisharp not found
+cache_loader_lib: module lspconfig.server_configurations.omnisharp not found
+	no file './lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/luajit-2.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file './lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file './lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig.so'
+	no file '/usr/lib/lua/5.1/lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+[INFO  Thu 03 Oct 2024 07:29:19 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Thu 03 Oct 2024 07:29:20 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdownlint-cli2) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Thu 03 Oct 2024 07:29:20 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdown-toc) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Thu 03 Oct 2024 07:29:20 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Thu 03 Oct 2024 07:29:21 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[ERROR Fri 04 Oct 2024 08:53:02 PM +03] ...m/lazy/mason-lspconfig.nvim/lua/mason-lspconfig/init.lua:33: Failed to set up lspconfig integration. ...ig.nvim/lua/mason-lspconfig/server_config_extensions.lua:4: module 'lspconfig.server_configurations.omnisharp' not found:
+	no field package.preload['lspconfig.server_configurations.omnisharp']
+cache_loader: module lspconfig.server_configurations.omnisharp not found
+cache_loader_lib: module lspconfig.server_configurations.omnisharp not found
+	no file './lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/luajit-2.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file './lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file './lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig.so'
+	no file '/usr/lib/lua/5.1/lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/lib/lua/5.1/lspconfig.so'
+[INFO  Fri 04 Oct 2024 08:53:03 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Fri 04 Oct 2024 08:53:03 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdownlint-cli2) {}
+[INFO  Fri 04 Oct 2024 08:53:03 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdown-toc) {}
+[INFO  Fri 04 Oct 2024 08:53:03 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Fri 04 Oct 2024 08:53:04 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdownlint-cli2) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Fri 04 Oct 2024 08:53:04 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdown-toc) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Fri 04 Oct 2024 08:53:04 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Fri 04 Oct 2024 08:53:05 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Fri 04 Oct 2024 08:56:52 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Fri 04 Oct 2024 08:56:52 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdownlint-cli2) {}
+[INFO  Fri 04 Oct 2024 08:56:52 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdown-toc) {}
+[ERROR Fri 04 Oct 2024 08:56:52 PM +03] ...m/lazy/mason-lspconfig.nvim/lua/mason-lspconfig/init.lua:33: Failed to set up lspconfig integration. ...ig.nvim/lua/mason-lspconfig/server_config_extensions.lua:4: module 'lspconfig.server_configurations.omnisharp' not found:
+	no field package.preload['lspconfig.server_configurations.omnisharp']
+cache_loader: module lspconfig.server_configurations.omnisharp not found
+cache_loader_lib: module lspconfig.server_configurations.omnisharp not found
+	no file './lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/luajit-2.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file './lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file './lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig.so'
+	no file '/usr/lib/lua/5.1/lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+[INFO  Fri 04 Oct 2024 08:56:52 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Fri 04 Oct 2024 08:56:52 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdown-toc) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Fri 04 Oct 2024 08:56:52 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdownlint-cli2) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Fri 04 Oct 2024 08:56:52 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Fri 04 Oct 2024 08:56:53 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Fri 04 Oct 2024 09:17:03 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Fri 04 Oct 2024 09:17:03 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdownlint-cli2) {}
+[INFO  Fri 04 Oct 2024 09:17:03 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdown-toc) {}
+[ERROR Fri 04 Oct 2024 09:17:03 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdownlint-cli2) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Fri 04 Oct 2024 09:17:03 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdown-toc) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Fri 04 Oct 2024 09:17:05 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Fri 04 Oct 2024 09:17:54 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdown-toc) {}
+[ERROR Fri 04 Oct 2024 09:17:54 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdown-toc) error=spawn: npm failed with exit code 127 and signal 0. 
+[INFO  Fri 04 Oct 2024 09:17:55 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdown-toc) {}
+[ERROR Fri 04 Oct 2024 09:17:55 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdown-toc) error=spawn: npm failed with exit code 127 and signal 0. 
+[INFO  Fri 04 Oct 2024 09:17:56 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdown-toc) {}
+[ERROR Fri 04 Oct 2024 09:17:56 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdown-toc) error=spawn: npm failed with exit code 127 and signal 0. 
+[INFO  Fri 04 Oct 2024 09:17:56 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdown-toc) {}
+[ERROR Fri 04 Oct 2024 09:17:57 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdown-toc) error=spawn: npm failed with exit code 127 and signal 0. 
+[INFO  Fri 04 Oct 2024 09:18:55 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=dockerfile-language-server) {}
+[ERROR Fri 04 Oct 2024 09:18:55 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=dockerfile-language-server) error=spawn: npm failed with exit code 127 and signal 0. 
+[INFO  Fri 04 Oct 2024 09:18:58 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=docker-compose-language-service) {}
+[ERROR Fri 04 Oct 2024 09:18:58 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=docker-compose-language-service) error=spawn: npm failed with exit code 127 and signal 0. 
+[INFO  Fri 04 Oct 2024 09:20:10 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=sqlls) {}
+[ERROR Fri 04 Oct 2024 09:20:10 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=sqlls) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Fri 04 Oct 2024 09:26:08 PM +03] ...m/lazy/mason-lspconfig.nvim/lua/mason-lspconfig/init.lua:33: Failed to set up lspconfig integration. ...ig.nvim/lua/mason-lspconfig/server_config_extensions.lua:4: module 'lspconfig.server_configurations.omnisharp' not found:
+	no field package.preload['lspconfig.server_configurations.omnisharp']
+cache_loader: module lspconfig.server_configurations.omnisharp not found
+cache_loader_lib: module lspconfig.server_configurations.omnisharp not found
+	no file './lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/luajit-2.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file './lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file './lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig.so'
+	no file '/usr/lib/lua/5.1/lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/lib/lua/5.1/lspconfig.so'
+[INFO  Fri 04 Oct 2024 09:26:08 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Fri 04 Oct 2024 09:26:08 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code 127 and signal 0. 
+[INFO  Fri 04 Oct 2024 09:26:20 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Fri 04 Oct 2024 09:26:20 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdownlint-cli2) {}
+[INFO  Fri 04 Oct 2024 09:26:20 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdown-toc) {}
+[ERROR Fri 04 Oct 2024 09:26:20 PM +03] ...m/lazy/mason-lspconfig.nvim/lua/mason-lspconfig/init.lua:33: Failed to set up lspconfig integration. ...ig.nvim/lua/mason-lspconfig/server_config_extensions.lua:4: module 'lspconfig.server_configurations.omnisharp' not found:
+	no field package.preload['lspconfig.server_configurations.omnisharp']
+cache_loader: module lspconfig.server_configurations.omnisharp not found
+cache_loader_lib: module lspconfig.server_configurations.omnisharp not found
+	no file './lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/luajit-2.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file './lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file './lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig.so'
+	no file '/usr/lib/lua/5.1/lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+[INFO  Fri 04 Oct 2024 09:26:20 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Fri 04 Oct 2024 09:26:21 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdown-toc) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Fri 04 Oct 2024 09:26:21 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdownlint-cli2) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Fri 04 Oct 2024 09:26:21 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Fri 04 Oct 2024 09:26:22 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Fri 04 Oct 2024 09:49:12 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Fri 04 Oct 2024 09:49:12 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdownlint-cli2) {}
+[INFO  Fri 04 Oct 2024 09:49:12 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdown-toc) {}
+[ERROR Fri 04 Oct 2024 09:49:12 PM +03] ...m/lazy/mason-lspconfig.nvim/lua/mason-lspconfig/init.lua:33: Failed to set up lspconfig integration. ...ig.nvim/lua/mason-lspconfig/server_config_extensions.lua:4: module 'lspconfig.server_configurations.omnisharp' not found:
+	no field package.preload['lspconfig.server_configurations.omnisharp']
+cache_loader: module lspconfig.server_configurations.omnisharp not found
+cache_loader_lib: module lspconfig.server_configurations.omnisharp not found
+	no file './lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/luajit-2.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file './lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file './lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig.so'
+	no file '/usr/lib/lua/5.1/lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+[INFO  Fri 04 Oct 2024 09:49:13 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Fri 04 Oct 2024 09:49:13 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdownlint-cli2) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Fri 04 Oct 2024 09:49:13 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdown-toc) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Fri 04 Oct 2024 09:49:13 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Fri 04 Oct 2024 09:49:14 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Fri 04 Oct 2024 09:56:20 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=csharp-language-server) {}
+[ERROR Fri 04 Oct 2024 09:56:20 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=csharp-language-server) error=spawn: dotnet failed with exit code - and signal -. dotnet is not executable
+[INFO  Fri 04 Oct 2024 10:01:41 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Fri 04 Oct 2024 10:01:41 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdownlint-cli2) {}
+[INFO  Fri 04 Oct 2024 10:01:41 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdown-toc) {}
+[ERROR Fri 04 Oct 2024 10:01:41 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdownlint-cli2) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Fri 04 Oct 2024 10:01:41 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=markdown-toc) error=spawn: npm failed with exit code 127 and signal 0. 
+[ERROR Fri 04 Oct 2024 10:01:42 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Fri 04 Oct 2024 10:02:01 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=csharp-language-server) {}
+[INFO  Fri 04 Oct 2024 10:02:13 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=csharp-language-server)
+[ERROR Sun 06 Oct 2024 02:41:30 AM +03] ...m/lazy/mason-lspconfig.nvim/lua/mason-lspconfig/init.lua:33: Failed to set up lspconfig integration. ...ig.nvim/lua/mason-lspconfig/server_config_extensions.lua:4: module 'lspconfig.server_configurations.omnisharp' not found:
+	no field package.preload['lspconfig.server_configurations.omnisharp']
+cache_loader: module lspconfig.server_configurations.omnisharp not found
+cache_loader_lib: module lspconfig.server_configurations.omnisharp not found
+	no file './lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/luajit-2.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file './lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file './lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig.so'
+	no file '/usr/lib/lua/5.1/lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+[INFO  Sun 06 Oct 2024 02:41:32 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Sun 06 Oct 2024 02:41:32 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdownlint-cli2) {}
+[INFO  Sun 06 Oct 2024 02:41:32 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdown-toc) {}
+[INFO  Sun 06 Oct 2024 02:41:32 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Sun 06 Oct 2024 02:41:34 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Sun 06 Oct 2024 02:41:46 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=markdownlint-cli2)
+[INFO  Sun 06 Oct 2024 02:41:49 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=markdown-toc)
+[INFO  Sun 06 Oct 2024 02:41:51 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=json-lsp)
+[INFO  Sun 06 Oct 2024 02:52:42 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[ERROR Sun 06 Oct 2024 02:52:42 AM +03] ...m/lazy/mason-lspconfig.nvim/lua/mason-lspconfig/init.lua:33: Failed to set up lspconfig integration. ...ig.nvim/lua/mason-lspconfig/server_config_extensions.lua:4: module 'lspconfig.server_configurations.omnisharp' not found:
+	no field package.preload['lspconfig.server_configurations.omnisharp']
+cache_loader: module lspconfig.server_configurations.omnisharp not found
+cache_loader_lib: module lspconfig.server_configurations.omnisharp not found
+	no file './lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/luajit-2.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file './lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file './lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig.so'
+	no file '/usr/lib/lua/5.1/lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+[ERROR Sun 06 Oct 2024 02:52:44 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Sun 06 Oct 2024 03:03:41 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[ERROR Sun 06 Oct 2024 03:03:41 AM +03] ...m/lazy/mason-lspconfig.nvim/lua/mason-lspconfig/init.lua:33: Failed to set up lspconfig integration. ...ig.nvim/lua/mason-lspconfig/server_config_extensions.lua:4: module 'lspconfig.server_configurations.omnisharp' not found:
+	no field package.preload['lspconfig.server_configurations.omnisharp']
+cache_loader: module lspconfig.server_configurations.omnisharp not found
+cache_loader_lib: module lspconfig.server_configurations.omnisharp not found
+	no file './lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/luajit-2.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file './lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file './lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig.so'
+	no file '/usr/lib/lua/5.1/lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+[ERROR Sun 06 Oct 2024 03:03:43 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Sun 06 Oct 2024 06:11:54 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[ERROR Sun 06 Oct 2024 06:11:54 PM +03] ...m/lazy/mason-lspconfig.nvim/lua/mason-lspconfig/init.lua:33: Failed to set up lspconfig integration. ...ig.nvim/lua/mason-lspconfig/server_config_extensions.lua:4: module 'lspconfig.server_configurations.omnisharp' not found:
+	no field package.preload['lspconfig.server_configurations.omnisharp']
+cache_loader: module lspconfig.server_configurations.omnisharp not found
+cache_loader_lib: module lspconfig.server_configurations.omnisharp not found
+	no file './lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/luajit-2.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file './lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file './lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig.so'
+	no file '/usr/lib/lua/5.1/lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+[ERROR Sun 06 Oct 2024 06:11:56 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Mon 07 Oct 2024 01:11:58 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[ERROR Mon 07 Oct 2024 01:11:58 AM +03] ...m/lazy/mason-lspconfig.nvim/lua/mason-lspconfig/init.lua:33: Failed to set up lspconfig integration. ...ig.nvim/lua/mason-lspconfig/server_config_extensions.lua:4: module 'lspconfig.server_configurations.omnisharp' not found:
+	no field package.preload['lspconfig.server_configurations.omnisharp']
+cache_loader: module lspconfig.server_configurations.omnisharp not found
+cache_loader_lib: module lspconfig.server_configurations.omnisharp not found
+	no file './lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/luajit-2.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file './lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file './lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig.so'
+	no file '/usr/lib/lua/5.1/lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+[ERROR Mon 07 Oct 2024 01:12:00 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Mon 07 Oct 2024 01:27:19 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[ERROR Mon 07 Oct 2024 01:27:19 AM +03] ...m/lazy/mason-lspconfig.nvim/lua/mason-lspconfig/init.lua:33: Failed to set up lspconfig integration. ...ig.nvim/lua/mason-lspconfig/server_config_extensions.lua:4: module 'lspconfig.server_configurations.omnisharp' not found:
+	no field package.preload['lspconfig.server_configurations.omnisharp']
+cache_loader: module lspconfig.server_configurations.omnisharp not found
+cache_loader_lib: module lspconfig.server_configurations.omnisharp not found
+	no file './lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/luajit-2.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file './lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file './lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig.so'
+	no file '/usr/lib/lua/5.1/lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+[ERROR Mon 07 Oct 2024 01:27:21 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Mon 07 Oct 2024 01:36:54 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=html-lsp) {}
+[INFO  Mon 07 Oct 2024 01:37:13 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=html-lsp)
+[INFO  Mon 07 Oct 2024 02:04:26 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[ERROR Mon 07 Oct 2024 02:04:26 AM +03] ...m/lazy/mason-lspconfig.nvim/lua/mason-lspconfig/init.lua:33: Failed to set up lspconfig integration. ...ig.nvim/lua/mason-lspconfig/server_config_extensions.lua:4: module 'lspconfig.server_configurations.omnisharp' not found:
+	no field package.preload['lspconfig.server_configurations.omnisharp']
+cache_loader: module lspconfig.server_configurations.omnisharp not found
+cache_loader_lib: module lspconfig.server_configurations.omnisharp not found
+	no file './lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/luajit-2.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file './lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file './lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig.so'
+	no file '/usr/lib/lua/5.1/lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+[ERROR Mon 07 Oct 2024 02:04:28 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Mon 07 Oct 2024 02:13:33 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[ERROR Mon 07 Oct 2024 02:13:33 AM +03] ...m/lazy/mason-lspconfig.nvim/lua/mason-lspconfig/init.lua:33: Failed to set up lspconfig integration. ...ig.nvim/lua/mason-lspconfig/server_config_extensions.lua:4: module 'lspconfig.server_configurations.omnisharp' not found:
+	no field package.preload['lspconfig.server_configurations.omnisharp']
+cache_loader: module lspconfig.server_configurations.omnisharp not found
+cache_loader_lib: module lspconfig.server_configurations.omnisharp not found
+	no file './lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/luajit-2.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file './lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file './lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig.so'
+	no file '/usr/lib/lua/5.1/lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+[ERROR Mon 07 Oct 2024 02:13:35 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Mon 07 Oct 2024 02:26:25 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[ERROR Mon 07 Oct 2024 02:26:25 AM +03] ...m/lazy/mason-lspconfig.nvim/lua/mason-lspconfig/init.lua:33: Failed to set up lspconfig integration. ...ig.nvim/lua/mason-lspconfig/server_config_extensions.lua:4: module 'lspconfig.server_configurations.omnisharp' not found:
+	no field package.preload['lspconfig.server_configurations.omnisharp']
+cache_loader: module lspconfig.server_configurations.omnisharp not found
+cache_loader_lib: module lspconfig.server_configurations.omnisharp not found
+	no file './lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/luajit-2.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file './lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file './lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig.so'
+	no file '/usr/lib/lua/5.1/lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+[ERROR Mon 07 Oct 2024 02:26:28 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Mon 07 Oct 2024 02:37:54 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[ERROR Mon 07 Oct 2024 02:37:54 AM +03] ...m/lazy/mason-lspconfig.nvim/lua/mason-lspconfig/init.lua:33: Failed to set up lspconfig integration. ...ig.nvim/lua/mason-lspconfig/server_config_extensions.lua:4: module 'lspconfig.server_configurations.omnisharp' not found:
+	no field package.preload['lspconfig.server_configurations.omnisharp']
+cache_loader: module lspconfig.server_configurations.omnisharp not found
+cache_loader_lib: module lspconfig.server_configurations.omnisharp not found
+	no file './lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/luajit-2.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file './lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file './lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig.so'
+	no file '/usr/lib/lua/5.1/lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+[ERROR Mon 07 Oct 2024 02:37:57 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Mon 07 Oct 2024 02:38:47 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[ERROR Mon 07 Oct 2024 02:38:47 AM +03] ...m/lazy/mason-lspconfig.nvim/lua/mason-lspconfig/init.lua:33: Failed to set up lspconfig integration. ...ig.nvim/lua/mason-lspconfig/server_config_extensions.lua:4: module 'lspconfig.server_configurations.omnisharp' not found:
+	no field package.preload['lspconfig.server_configurations.omnisharp']
+cache_loader: module lspconfig.server_configurations.omnisharp not found
+cache_loader_lib: module lspconfig.server_configurations.omnisharp not found
+	no file './lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/luajit-2.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file './lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file './lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig.so'
+	no file '/usr/lib/lua/5.1/lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+[ERROR Mon 07 Oct 2024 02:38:48 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[ERROR Mon 07 Oct 2024 02:44:25 AM +03] ...m/lazy/mason-lspconfig.nvim/lua/mason-lspconfig/init.lua:33: Failed to set up lspconfig integration. ...ig.nvim/lua/mason-lspconfig/server_config_extensions.lua:4: module 'lspconfig.server_configurations.omnisharp' not found:
+	no field package.preload['lspconfig.server_configurations.omnisharp']
+cache_loader: module lspconfig.server_configurations.omnisharp not found
+cache_loader_lib: module lspconfig.server_configurations.omnisharp not found
+	no file './lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/luajit-2.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file './lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file './lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig.so'
+	no file '/usr/lib/lua/5.1/lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+[INFO  Mon 07 Oct 2024 02:44:28 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[ERROR Mon 07 Oct 2024 02:44:29 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Mon 07 Oct 2024 02:47:59 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[ERROR Mon 07 Oct 2024 02:47:59 AM +03] ...m/lazy/mason-lspconfig.nvim/lua/mason-lspconfig/init.lua:33: Failed to set up lspconfig integration. ...ig.nvim/lua/mason-lspconfig/server_config_extensions.lua:4: module 'lspconfig.server_configurations.omnisharp' not found:
+	no field package.preload['lspconfig.server_configurations.omnisharp']
+cache_loader: module lspconfig.server_configurations.omnisharp not found
+cache_loader_lib: module lspconfig.server_configurations.omnisharp not found
+	no file './lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/luajit-2.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file './lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file './lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig.so'
+	no file '/usr/lib/lua/5.1/lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+[ERROR Mon 07 Oct 2024 02:48:00 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Mon 07 Oct 2024 03:21:09 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[ERROR Mon 07 Oct 2024 03:21:09 AM +03] ...m/lazy/mason-lspconfig.nvim/lua/mason-lspconfig/init.lua:33: Failed to set up lspconfig integration. ...ig.nvim/lua/mason-lspconfig/server_config_extensions.lua:4: module 'lspconfig.server_configurations.omnisharp' not found:
+	no field package.preload['lspconfig.server_configurations.omnisharp']
+cache_loader: module lspconfig.server_configurations.omnisharp not found
+cache_loader_lib: module lspconfig.server_configurations.omnisharp not found
+	no file './lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/luajit-2.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file './lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file './lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig.so'
+	no file '/usr/lib/lua/5.1/lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+[ERROR Mon 07 Oct 2024 03:21:11 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Mon 07 Oct 2024 03:39:21 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[ERROR Mon 07 Oct 2024 03:39:21 AM +03] ...m/lazy/mason-lspconfig.nvim/lua/mason-lspconfig/init.lua:33: Failed to set up lspconfig integration. ...ig.nvim/lua/mason-lspconfig/server_config_extensions.lua:4: module 'lspconfig.server_configurations.omnisharp' not found:
+	no field package.preload['lspconfig.server_configurations.omnisharp']
+cache_loader: module lspconfig.server_configurations.omnisharp not found
+cache_loader_lib: module lspconfig.server_configurations.omnisharp not found
+	no file './lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/luajit-2.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file './lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file './lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig.so'
+	no file '/usr/lib/lua/5.1/lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file '/home/artungul/.local/share/nvim/lazy-rocks/telescope.nvim/lib/lua/5.1/lspconfig.so'
+[ERROR Mon 07 Oct 2024 03:39:23 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Mon 07 Oct 2024 12:22:53 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[ERROR Mon 07 Oct 2024 12:22:53 PM +03] ...m/lazy/mason-lspconfig.nvim/lua/mason-lspconfig/init.lua:33: Failed to set up lspconfig integration. ...ig.nvim/lua/mason-lspconfig/server_config_extensions.lua:4: module 'lspconfig.server_configurations.omnisharp' not found:
+	no field package.preload['lspconfig.server_configurations.omnisharp']
+cache_loader: module lspconfig.server_configurations.omnisharp not found
+cache_loader_lib: module lspconfig.server_configurations.omnisharp not found
+	no file './lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/luajit-2.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file './lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file './lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig.so'
+	no file '/usr/lib/lua/5.1/lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+[ERROR Mon 07 Oct 2024 12:22:56 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Mon 07 Oct 2024 12:32:18 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[ERROR Mon 07 Oct 2024 12:32:19 PM +03] ...m/lazy/mason-lspconfig.nvim/lua/mason-lspconfig/init.lua:33: Failed to set up lspconfig integration. ...ig.nvim/lua/mason-lspconfig/server_config_extensions.lua:4: module 'lspconfig.server_configurations.omnisharp' not found:
+	no field package.preload['lspconfig.server_configurations.omnisharp']
+cache_loader: module lspconfig.server_configurations.omnisharp not found
+cache_loader_lib: module lspconfig.server_configurations.omnisharp not found
+	no file './lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/luajit-2.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file './lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file './lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig.so'
+	no file '/usr/lib/lua/5.1/lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+[ERROR Mon 07 Oct 2024 12:32:20 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Mon 07 Oct 2024 01:06:13 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[ERROR Mon 07 Oct 2024 01:06:13 PM +03] ...m/lazy/mason-lspconfig.nvim/lua/mason-lspconfig/init.lua:33: Failed to set up lspconfig integration. ...ig.nvim/lua/mason-lspconfig/server_config_extensions.lua:4: module 'lspconfig.server_configurations.omnisharp' not found:
+	no field package.preload['lspconfig.server_configurations.omnisharp']
+cache_loader: module lspconfig.server_configurations.omnisharp not found
+cache_loader_lib: module lspconfig.server_configurations.omnisharp not found
+	no file './lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/luajit-2.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file './lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file './lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig.so'
+	no file '/usr/lib/lua/5.1/lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+[ERROR Mon 07 Oct 2024 01:06:15 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Mon 07 Oct 2024 02:48:30 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[ERROR Mon 07 Oct 2024 02:48:30 PM +03] ...m/lazy/mason-lspconfig.nvim/lua/mason-lspconfig/init.lua:33: Failed to set up lspconfig integration. ...ig.nvim/lua/mason-lspconfig/server_config_extensions.lua:4: module 'lspconfig.server_configurations.omnisharp' not found:
+	no field package.preload['lspconfig.server_configurations.omnisharp']
+cache_loader: module lspconfig.server_configurations.omnisharp not found
+cache_loader_lib: module lspconfig.server_configurations.omnisharp not found
+	no file './lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/luajit-2.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file './lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file './lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig.so'
+	no file '/usr/lib/lua/5.1/lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+[ERROR Mon 07 Oct 2024 02:48:32 PM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable
+[INFO  Tue 08 Oct 2024 01:14:44 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[ERROR Tue 08 Oct 2024 01:14:44 AM +03] ...m/lazy/mason-lspconfig.nvim/lua/mason-lspconfig/init.lua:33: Failed to set up lspconfig integration. ...ig.nvim/lua/mason-lspconfig/server_config_extensions.lua:4: module 'lspconfig.server_configurations.omnisharp' not found:
+	no field package.preload['lspconfig.server_configurations.omnisharp']
+cache_loader: module lspconfig.server_configurations.omnisharp not found
+cache_loader_lib: module lspconfig.server_configurations.omnisharp not found
+	no file './lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/luajit-2.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/local/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp.lua'
+	no file '/usr/share/lua/5.1/lspconfig/server_configurations/omnisharp/init.lua'
+	no file './lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/lib/lua/5.1/lspconfig/server_configurations/omnisharp.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+	no file './lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/lspconfig.so'
+	no file '/usr/lib/lua/5.1/lspconfig.so'
+	no file '/usr/local/lib/lua/5.1/loadall.so'
+[ERROR Tue 08 Oct 2024 01:14:46 AM +03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=stylua) error=spawn: unzip failed with exit code - and signal -. unzip is not executable

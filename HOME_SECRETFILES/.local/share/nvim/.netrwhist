@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/artungul/.config/nvim/lua/config'
+let g:netrw_dirhist_2='/home/artungul/.config/nvim/lua'
+let g:netrw_dirhist_1='/home/artungul/.config/nvim'
+let g:netrw_dirhist_0='/home/artungul/.config'
+let g:netrw_dirhist_9='/home/artungul'
+let g:netrw_dirhist_8='/home/artungul/.local'
+let g:netrw_dirhist_7='/home/artungul/.local/state'
+let g:netrw_dirhist_6='/home/artungul/.local/state/nvim'
+let g:netrw_dirhist_5='/home/artungul/.local/state/nvim/lazy'
+let g:netrw_dirhist_4='/home/artungul/.local/state/nvim'

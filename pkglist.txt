@@ -1,0 +1,17 @@
+aspnet-runtime
+base
+dbus-units
+dotnet-sdk
+gcc
+gdb
+git
+man-db
+man-pages
+mariadb-lts
+neovim
+openssh
+sshguard
+sudo
+systemd-resolvconf
+ttf-nerd-fonts-symbols
+vim
